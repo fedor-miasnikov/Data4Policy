@@ -1,0 +1,37 @@
+project: 
+  type: book
+  output-dir: docs
+  
+book: 
+  title: "Data 4 Policy"  
+  chapters: 
+  - index.qmd
+  - Unit1.qmd 
+  - Unit2.qmd
+  - Unit3.qmd
+
+    
+  navbar: 
+    background: white
+    logo: images/Logo_BERD_Academy(1).png
+#    logo: images/Logo_BERD_Academy.png
+    
+# we can add this 
+  page-footer:
+    center: 
+     
+     - text: "Impressum"
+       href: impressum.qmd
+
+# bibliography: references.bib
+
+format:
+  html:
+    theme: flatly
+    
+number-depth: 2
+
+highlight-style: breeze
+
+    
+

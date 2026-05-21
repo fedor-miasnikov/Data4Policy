@@ -1,0 +1,9 @@
+## Why Quantification Matters in Modern Society {.unnumbered}
+
+## Lecture Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=6PELgSQLwfo&list=PL6vJnEsYB_3EtUoTNYrjq5vBHEE2SSYGm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Lecture Slides
+
+Click [here](slides/V1.SocQuant_WJR_2025.26_edited.pdf) to access the lecture slides.

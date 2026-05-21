@@ -1,0 +1,9 @@
+## Indicators: Special Statistical Vehicles {.unnumbered}
+
+## Lecture Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=PPkjz-Fg4Iw&list=PL6vJnEsYB_3EtUoTNYrjq5vBHEE2SSYGm&index=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Lecture Slides
+
+Click [here](slides/V3.Indicators_WJR_2025.26_edited.pdf) to access the lecture slides.
