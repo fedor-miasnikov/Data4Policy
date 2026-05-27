@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 book: 
-  title: "Data 4 Policy"  
+  title: "Data 4 Policy: Understanding the Numbers That Govern Our World"  
   chapters: 
   - index.qmd
   - Unit1.qmd 
